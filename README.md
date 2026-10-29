@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sourav+Kumar+Nayak+%F0%9F%91%8B;This+is+my+secondary+account;Find+all+my+projects+on+my+main+profile" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=AI+Automation+Engineer;Full-Stack+Developer+%7C+Spring+Boot+%2B+Angular+%2B+Next.js;AI+%26+ML+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 <p align="center">
